@@ -13,3 +13,6 @@
 
 4. Data Source :
      Data taken from kaggle in xlsx format.
+
+5. Screenshot :
+   (https://github.com/user-attachments/assets/0dee09e6-a8b7-4315-8770-b21345812075)
